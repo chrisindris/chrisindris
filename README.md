@@ -1,4 +1,6 @@
-## Hi there 👋
+## Computer Vision.
+
+GitHub Education would like to see a profile README, so this is as good a time as any to make one.
 
 <!--
 **chrisindris/chrisindris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
