@@ -3,7 +3,7 @@
 Here's the proposal:
 https://drive.google.com/file/d/12O1lIKtN_BAPmmBtFFi0HNmmTYOUb5A6/view?usp=sharing
 
-Presentation slides: https://drive.google.com/file/d/1sIqwXYflC0Jf75oMz9RIZMh5aSTaPWTm/view?usp=drive_link
+Presentation slides: https://drive.google.com/file/d/1871g_eIEOSCcnowu0olobSD7dCvSIOzk/view?usp=drive_link
 
 
 -------
